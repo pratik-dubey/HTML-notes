@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>learning html</title>
+</HEAD>
+<body>
+    <!--this is my first comment-->
+    <p id="use of nav tag">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus  ducimus cumque ullam dolore, reiciendis maxime. Aliquid <br> laudantium in dolores quidem, quam aliquam iure cumque porro eaque reprehenderit provident asperiores illo?</p>
+  <h1>I AMM LEARNING WITH PRASHANT SIR</h1> <hr> 
+  <p><b>youtube</b></p><hr>
+  <i>telegram</i><hr>
+  <u>instagram</u><hr>
+  <s>jee</s><hr>
+  <h2>nostalgia</h2>
+   <h3>old memories</h3>
+   <h4>first program</h4>
+   <h5>school time</h5>
+   <h6>money heist
+   </h6>
+   <p>[a+b]<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab</p>
+   <big>this is big text</big><hr>
+   <small>this is small text</small>
+ <hr>
+ <a href="<img src="moneyheist.jpg"moneyheist></a>
+ <hr>
+ <b>pass=4736</b><hr>
+ <i>whatsapp</i><hr>
+ <u>telegram</u><hr>
+<s>youtube</s>
+ <pre>jai 
+             shree
+                       ram
+                       </pre>
+<img src="moneyheist.jpg"money heist height="300px"><br>
+<a href = "https://www.whatsapp.com/"target="_blank">whatsapp web></a><hr>
+<a href = "https://web.telegram.org/"target="_blank">telegram web></a><hr>
+<video src="assets/timer.mp4" height="250px" muted autoplay loop controls></video>  
+<header><h1>this is HTML</h1></header>
+<header><a href="#content">content</a></header>    
+<main><p id= content>Ltibus, officiis ad consectetur voluptas quod quidem.</p><hr>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda eum reiciendis quisquam similique veniam accusantium doloremque quasi, necessitatibus enim a aut delectus placeat iste? Fuga quos quod debitis dolorem dolore deserunt ipsa accusamus facere sed quisquam architecto nobis id libero et adipisci iure dolorum, nisi reiciendis asperiores odit rerum nesciunt quidem ut. Consequuntur, odio laborum. In culpa quasi soluta hic tempora nam eius tenetur suscipit quia provident cumque, porro ratione deleniti maiores, delectus facilis. Voluptate vero id perspiciatis rem. Nihil itaque aliquid dolor ipsam labore, suscipit enim totam atque quasi maxime praesentium ipsum animi doloribus culpa unde voluptas minus incidunt.</p><hr>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque fugit eaque eum quidem dolor recusandae voluptatum praesentium porro quod amet ea vel ipsa, expedita. Ea nesciunt quidem cupiditate ipsam sed labore maxime?</p>
+</p></main><hr><b>up scholarship</b>   <hr>
+<a href = "https://www.instagram.com/"target="_blank">instagram></a><hr>
+<section> <h1>admissions</h1></section>
+admissions will open soon
+<section><h1>placements</h1></section>
+<article><s>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto eveniet debitis perspiciatis commodi maiores ratione placeat aliquam cumque odio dolores.</s></article><br>
+<aside><h3>recommended books </h3>
+let us C <br>
+introduction to programming</aside>
+<header>-link 1 <hr>
+-link 2 <hr> - link3</header>
+<ul>
+  <li>computer science</li>
+  <li>information technology</li>
+  <li>mechanical engineering</li>
+</ul>
+<heAder><nav> <a href="#use of nav tag">use of nav tag</a></nav></heAder>
+<!-- block elements take full width of a line whereas inline elements take only space as wide as they are ; paragraph tag,h1,2,3,4,5,6 tag are block elements and <img>,<a>tags are inline tags -->
+  <div><u><p>this is a para</p>
+    <a href = "https://web.telegram.org/"target="_blank">telegram web></a>
+  <p>use of div tag  div tag is like a plastic holding all the elements inside it and if any effect is applied inside a div tag then it gets applied to all the elements inside div tag</p></u></div>
+  <p>lorem ipsum <span id="dolor">dolor</span> sit ameriw itguds dptg9usn rogyidkejfg ogstfhse59py </p>
+  <ol type="A">
+    <li>C</li>
+    <LI>C++</LI>
+    <li>java</li>
+    <li>html</li><ol type="I"><li>lvl 1</li>
+    <li>lvl 2</li>
+  <li>lvl 3</li>
+<li>lvl 4</li> </ol>
+    <li>CSS</li>
+  </ol>
+  <table border="2">
+    <caption>languages</caption>
+    <tr><th colspan="2">tech i am good at</th></tr>
+    <tr>
+      <th> language </th>
+      <th>competency</th>
+      <th>experience</th>
+          </tr>
+    <tr>
+<td> c </td>
+<td>5/10</td>
+<td>10</td>
+    </tr> <tr>
+      <td> java </td>
+      <td>8/10</td>
+      <td>9</td>
+          </tr>
+          <tr><td colspan="3">this is column span</td></tr>
+  </table>
+  <form  action="/submit.php">
+    user email id <input type="text" placeholder="email" required = "true"><br>
+    password<input type="password" name="pass" id=""> <br>
+    <input type="submit">
+  </form> 
+  <hr>
+  <form action="/contact me.php ">
+     marks<input type="text" placeholder="marks obtained" required = "true"> <br>
+   grade <input type="text" placeholder="C.G.P.A" name="" id=""><br>
+   <input type="text" name="username" value="pratik"><br>
+  Date: <input type="date"> <br>
+  File:<input type="file"> <br>
+  Color:<input type="color"> <br>
+  Price range :<input type="range"><br>
+    <input type="submit">
+  </form><hr>
+  <form action="/submit.php">
+    <label for="gender">gender :</label>
+    <input type="text" id="gender" value="male"><br>
+    <pre>               <input type="button" value="touch me"> </pre>
+  </form>
+  <form >
+    <label for="male">Male:</label>
+    <input type="radio" id="male"name="gender"><br>
+    <label for="female">Female:</label>
+    <input type="radio" id="female" name="gender"><br>
+    <label for="other"> Other:</label>
+    <input type="radio" id="other" name="gender">
+  </form><hr>
+  <form >
+    <label for="C">C:</label>
+    <input type="checkbox"name= "lang" id="C"><br>
+    <label for="java">java:</label>
+    <input type="checkbox"name= "lang" id="java"><br>
+    <label for="html">html:</label>
+    <input type="checkbox"name= "lang" id="html"><br>
+  </form>
+  <form >
+<label for="country">select your country </label>
+<select name="country" id="country">
+<option value="india">india</option>
+<option value="USA">USA</option>
+<option value="dubai">dubai</option>
+<option value="russia">russia</option>
+<option value="spain">spain</option></select>
+</form>
+<form > <hr>
+<textarea name="description" id="description" cols="30" rows="10">write description here </textarea>
+</form>
+<iframe src="https://en.wikipedia.org/wiki/Israel%E2%80%93Hamas_war" height="300" width="200" frameborder="2"></iframe> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rklidcZ-aLU?si=n12ZG0nvgkRXtptT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" height="300" width="250" autoplay contrrols ></iframe>
+</body>
+</html>  
